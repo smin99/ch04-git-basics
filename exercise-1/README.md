@@ -1,5 +1,7 @@
 # Exercise-1
 
+## Explanations
+
 The purpose of this exercise is to practice the steps you'll need to
 use in future exercises. We'll begin by configuring your GitHub
 account for your machine (which you'll only need to do once), and then
@@ -24,3 +26,15 @@ breakfast today
 6. Using your terminal, add and commit the changes you've made to your repository
 
 7. Push changes up to GitHub
+
+![](uw.jpg)
+
+### Great Cities
+* London
+* Paris
+* Seoul
+* Seattle
+1. Rome
+
+### Not Too Bad
+1. Italy
